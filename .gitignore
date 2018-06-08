@@ -1,0 +1,2 @@
+#Ignoring the node modules from git
+node_modules
